@@ -1,0 +1,1376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>2026050610392086ARMA</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605061039204KEZIN</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Viajeros del Tiempo. Alumnado</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Un paseo por la Prehistoria.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Raquel Fernández Villanueva</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>El alumnado suele ver la historia como algo lejano y aburrido. Mediante el uso de herramientas digitales y la narrativa , se busca que empaticen con las formas de vida primitivas y comprendan la evolución humana.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777996750201</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mostcwm9-ni0zxwe55</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Página nueva</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mostcwmf-o66mmca74</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Introducción</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mostcwmf-o66mmca74</odePageId>
+      <odeBlockId>block-1777978163037-5eishujaw</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mostcwmf-o66mmca74</odePageId>
+          <odeBlockId>block-1777978163037-5eishujaw</odeBlockId>
+          <odeIdeviceId>idevice-1777978163020-uosw7t5uu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Hola a todos!<br />¿Alguna vez os habéis preguntado cómo sería vivir en un mundo sin tablets, sin casas de ladrillo y hasta sin supermercados?<br />En esta nueva aventura llamada "Viaje a la Prehistoria", vamos a subirnos a nuestra máquina del tiempo imaginaria para conocer a los primeros seres humanos. Descubriremos cómo fabricaban sus herramientas con piedras, cómo pintaban en cuevas y cómo consiguieron dominar el fuego.<br />¡Preparad vuestras mochilas de exploradores, porque empezamos una expedición fascinante a nuestros orígenes!<br />  </p>
+<p><br /> <br /> <br /> </p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /> </p>
+<p><br /></p>
+<p><br /> <br /> <br /> <br /> <br /> <br /> <br /> </p>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777978163020-uosw7t5uu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Hola a todos!<br />¿Alguna vez os habéis preguntado cómo sería vivir en un mundo sin tablets, sin casas de ladrillo y hasta sin supermercados?<br />En esta nueva aventura llamada \"Viaje a la Prehistoria\", vamos a subirnos a nuestra máquina del tiempo imaginaria para conocer a los primeros seres humanos. Descubriremos cómo fabricaban sus herramientas con piedras, cómo pintaban en cuevas y cómo consiguieron dominar el fuego.<br />¡Preparad vuestras mochilas de exploradores, porque empezamos una expedición fascinante a nuestros orígenes!<br />  </p>\n<p><br /> <br /> <br /> </p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /> </p>\n<p><br /></p>\n<p><br /> <br /> <br /> <br /> <br /> <br /> <br /> </p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mostcwmk-c4zdb69xb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Aprenderás a...</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Aprenderás a...</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Aprenderás a...</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mostcwmk-c4zdb69xb</odePageId>
+      <odeBlockId>block-1777978294814-qbvuva4yw</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mostcwmk-c4zdb69xb</odePageId>
+          <odeBlockId>block-1777978294814-qbvuva4yw</odeBlockId>
+          <odeIdeviceId>idevice-1777978294801-0ypobzg0k</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En estas sesiones aprenderás a:</p>
+<ol>
+<li>Investigar como un arqueólogo: Descubrirás cómo vivían los clanes, qué comían y cómo inventaron herramientas increíbles. </li>
+<li>Ser un gran comunicador: Aprenderás a escribir y grabar tus propias historias en un podcast profesional. </li>
+<li>Convertirte en diseñador digital: Usarás herramientas como Canva para crear museos modernos con imágenes y botones interactivos. </li>
+<li>Trabajar en equipo: Colaborarás con tu tribu para resolver retos y superar un juego de escape final. </li>
+</ol>
+<p> </p>
+<p><br /> <br /> <br /> </p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /> </p>
+<p><br /></p>
+<p><br /> <br /> <br /> <br /> <br /> <br /> <br /> </p>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777978294801-0ypobzg0k","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En estas sesiones aprenderás a:</p>\n<ol>\n<li>Investigar como un arqueólogo: Descubrirás cómo vivían los clanes, qué comían y cómo inventaron herramientas increíbles. </li>\n<li>Ser un gran comunicador: Aprenderás a escribir y grabar tus propias historias en un podcast profesional. </li>\n<li>Convertirte en diseñador digital: Usarás herramientas como Canva para crear museos modernos con imágenes y botones interactivos. </li>\n<li>Trabajar en equipo: Colaborarás con tu tribu para resolver retos y superar un juego de escape final. </li>\n</ol>\n<p> </p>\n<p><br /> <br /> <br /> </p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /> </p>\n<p><br /></p>\n<p><br /> <br /> <br /> <br /> <br /> <br /> <br /> </p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mostcwmm-j8tzno69f</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿Cómo sabré que eres un experto?</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo sabré que eres un experto?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo sabré que eres un experto?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>¿Cómo sabré que eres un experto?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mostcwmm-j8tzno69f</odePageId>
+      <odeBlockId>block-1777979184407-c2u940ohi</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mostcwmm-j8tzno69f</odePageId>
+          <odeBlockId>block-1777979184407-c2u940ohi</odeBlockId>
+          <odeIdeviceId>idevice-1777979184400-uji21tzj1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para conseguir tus puntos de explorador, me fijaré en:</p>
+<ol>
+<li>Tu participación en el Clan: Si ayudas a tus compañeros y trabajas con respeto en todas las misiones.</li>
+<li>Tu Podcast de Cromañón: Que el guion esté bien escrito y que leas con ganas y entonación al grabar. </li>
+<li>Tu Museo Digital: Que tu infografía de Canva esté ordenada, tenga imágenes chulas y funcionen sus botones interactivos.</li>
+<li>Tus entregas: Que presentes tus tareas a tiempo, como el carné de cavernícola y las reflexiones de tu diario.  </li>
+</ol>
+<p><br /> <br /> <br /> </p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /> </p>
+<p><br /></p>
+<p><br /> <br /> <br /> <br /> <br /> <br /> <br /> </p>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777979184400-uji21tzj1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para conseguir tus puntos de explorador, me fijaré en:</p>\n<ol>\n<li>Tu participación en el Clan: Si ayudas a tus compañeros y trabajas con respeto en todas las misiones.</li>\n<li>Tu Podcast de Cromañón: Que el guion esté bien escrito y que leas con ganas y entonación al grabar. </li>\n<li>Tu Museo Digital: Que tu infografía de Canva esté ordenada, tenga imágenes chulas y funcionen sus botones interactivos.</li>\n<li>Tus entregas: Que presentes tus tareas a tiempo, como el carné de cavernícola y las reflexiones de tu diario.  </li>\n</ol>\n<p><br /> <br /> <br /> </p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /> </p>\n<p><br /></p>\n<p><br /> <br /> <br /> <br /> <br /> <br /> <br /> </p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mostcwmn-s2uigsx0d</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesiones</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesiones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesiones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mostcwmp-b5h3u0vpn</odePageId>
+  <odeParentPageId>page-mostcwmn-s2uigsx0d</odeParentPageId>
+  <pageName>Sesión 1</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mostcwmp-b5h3u0vpn</odePageId>
+      <odeBlockId>block-1777979321647-3g9ngvdfw</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mostcwmp-b5h3u0vpn</odePageId>
+          <odeBlockId>block-1777979321647-3g9ngvdfw</odeBlockId>
+          <odeIdeviceId>idevice-1777979321639-irtm61pli</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Sesión 1: ¡Bienvenidos a la Tribu!</strong></p>
+<p><strong>Descripción</strong>: Empezamos nuestro viaje en el tiempo. Hoy descubriremos qué es la Prehistoria y nos organizaremos en "clanes" para investigar cómo vivían nuestros antepasados.</p>
+<p><strong>Actividad 1: El muro del pasado.</strong></p>
+<ul>
+<li><span style="font-weight: bolder;">Tarea</span>: Veremos un vídeo corto sobre el Paleolítico y anotaremos en un "muro" (puede ser un Padlet o un papel continuo) tres cosas que os hayan sorprendido.<br /><span style="font-weight: bolder;"></span></li>
+<li><span style="font-weight: bolder;">Dónde</span>: En el aula, usando la pizarra digital.<br /><span style="font-weight: bolder;"></span></li>
+<li><span style="font-weight: bolder;">Entrega</span>: Un comentario en el muro digital o una nota adhesiva.</li>
+</ul>
+<p><strong>Actividad 2: Mi carné de cavernícola.</strong></p>
+<ul>
+<li><strong>Tarea</strong>: Diseñar vuestro avatar prehistórico y elegir un nombre de tribu.</li>
+<li><strong>Dónde</strong>: En vuestro cuaderno o usando una herramienta de dibujo sencilla.</li>
+<li><strong>Entrega</strong>: El dibujo del avatar terminado.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777979321639-irtm61pli","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Sesión 1: ¡Bienvenidos a la Tribu!</strong></p>\n<p><strong>Descripción</strong>: Empezamos nuestro viaje en el tiempo. Hoy descubriremos qué es la Prehistoria y nos organizaremos en \"clanes\" para investigar cómo vivían nuestros antepasados.</p>\n<p><strong>Actividad 1: El muro del pasado.</strong></p>\n<ul>\n<li><span style=\"font-weight: bolder;\">Tarea</span>: Veremos un vídeo corto sobre el Paleolítico y anotaremos en un \"muro\" (puede ser un Padlet o un papel continuo) tres cosas que os hayan sorprendido.<br /><span style=\"font-weight: bolder;\"></span></li>\n<li><span style=\"font-weight: bolder;\">Dónde</span>: En el aula, usando la pizarra digital.<br /><span style=\"font-weight: bolder;\"></span></li>\n<li><span style=\"font-weight: bolder;\">Entrega</span>: Un comentario en el muro digital o una nota adhesiva.</li>\n</ul>\n<p><strong>Actividad 2: Mi carné de cavernícola.</strong></p>\n<ul>\n<li><strong>Tarea</strong>: Diseñar vuestro avatar prehistórico y elegir un nombre de tribu.</li>\n<li><strong>Dónde</strong>: En vuestro cuaderno o usando una herramienta de dibujo sencilla.</li>\n<li><strong>Entrega</strong>: El dibujo del avatar terminado.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mostcwmr-pi4f324mt</odePageId>
+  <odeParentPageId>page-mostcwmn-s2uigsx0d</odeParentPageId>
+  <pageName>Sesión 2</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mostcwmr-pi4f324mt</odePageId>
+      <odeBlockId>block-1777979528202-4tylpuh9y</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mostcwmr-pi4f324mt</odePageId>
+          <odeBlockId>block-1777979528202-4tylpuh9y</odeBlockId>
+          <odeIdeviceId>idevice-1777979528198-yu2yai20m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777979528198-yu2yai20m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mostcwmr-pi4f324mt</odePageId>
+      <odeBlockId>block-1777979636369-6qour54vt</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mostcwmr-pi4f324mt</odePageId>
+          <odeBlockId>block-1777979636369-6qour54vt</odeBlockId>
+          <odeIdeviceId>idevice-1777979636361-7z6fjkon9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Sesión 2: Reporteros en la Cueva (El Podcast I)</strong></p>
+<p><strong>Descripción</strong>: ¡Es hora de preparar nuestra noticia! Vamos a escribir lo que diremos en nuestro podcast para contarle al mundo cómo se vive en una cueva.</p>
+<p><strong>Actividad 1: El guion del "Diario de un Cromañón".</strong></p>
+<ul>
+<li><strong>Tarea</strong>: Escribir un texto breve (10-12 líneas) en primera persona. Ejemplo: "Hoy mi tribu ha salido a cazar un mamut...".</li>
+<li><strong>Dónde</strong>: En un documento de Google Docs o en papel.<br /></li>
+<li><strong>Entrega</strong>: El borrador del guion revisado por el profesor.</li>
+</ul>
+<p><strong>Actividad 2: Ensayo de locución.</strong><br /></p>
+<ul>
+<li><strong>Tarea</strong>: Leer el texto en voz alta con vuestra pareja de trabajo para practicar la entonación.<br /></li>
+<li><strong>Dónde</strong>: En un rincón tranquilo del aula.<br /></li>
+<li><strong>Entrega</strong>: No hay entrega física, es preparación para la grabación.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777979636361-7z6fjkon9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Sesión 2: Reporteros en la Cueva (El Podcast I)</strong></p>\n<p><strong>Descripción</strong>: ¡Es hora de preparar nuestra noticia! Vamos a escribir lo que diremos en nuestro podcast para contarle al mundo cómo se vive en una cueva.</p>\n<p><strong>Actividad 1: El guion del \"Diario de un Cromañón\".</strong></p>\n<ul>\n<li><strong>Tarea</strong>: Escribir un texto breve (10-12 líneas) en primera persona. Ejemplo: \"Hoy mi tribu ha salido a cazar un mamut...\".</li>\n<li><strong>Dónde</strong>: En un documento de Google Docs o en papel.<br /></li>\n<li><strong>Entrega</strong>: El borrador del guion revisado por el profesor.</li>\n</ul>\n<p><strong>Actividad 2: Ensayo de locución.</strong><br /></p>\n<ul>\n<li><strong>Tarea</strong>: Leer el texto en voz alta con vuestra pareja de trabajo para practicar la entonación.<br /></li>\n<li><strong>Dónde</strong>: En un rincón tranquilo del aula.<br /></li>\n<li><strong>Entrega</strong>: No hay entrega física, es preparación para la grabación.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mostcwmv-5zipzau4a</odePageId>
+  <odeParentPageId>page-mostcwmn-s2uigsx0d</odeParentPageId>
+  <pageName>Sesión 3</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 3</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 3</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mostcwmv-5zipzau4a</odePageId>
+      <odeBlockId>block-1777980075857-xuwngqg8t</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mostcwmv-5zipzau4a</odePageId>
+          <odeBlockId>block-1777980075857-xuwngqg8t</odeBlockId>
+          <odeIdeviceId>idevice-1777980075852-o5it8czh5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Sesión 3: ¡Silencio, grabamos! (El Podcast II)</strong></p>
+<p><strong>Descripción</strong>: Hoy nos convertimos en locutores profesionales. Grabaremos nuestras historias para que otros puedan escucharlas.</p>
+<p><strong>Actividad 1: Grabación del Podcast.</strong><br /></p>
+<ul>
+<li><strong>Tarea</strong>: Usar la grabadora de la tablet o Audacity para grabar vuestro guion. Podéis añadir sonidos de ambiente (fuego, viento).<br /></li>
+<li><strong>Dónde</strong>: En el "Rincón de Radio" del aula.<br /></li>
+<li><strong>Entrega</strong>: El archivo de audio (mp3 o enlace de Vocaroo). (EVIDENCIA 1: Foto del niño leyendo con micro/tablet).</li>
+</ul>
+<p><strong>Actividad 2: Auditorio prehistórico.</strong><br /></p>
+<ul>
+<li><strong>Tarea</strong>: Escuchar las grabaciones de otros clanes y anotar un detalle que os haya gustado de cada una.<br /></li>
+<li><strong>Dónde</strong>: En gran grupo en el aula.<br /></li>
+<li><strong>Entrega</strong>: Hoja de coevaluación sencilla.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777980075852-o5it8czh5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Sesión 3: ¡Silencio, grabamos! (El Podcast II)</strong></p>\n<p><strong>Descripción</strong>: Hoy nos convertimos en locutores profesionales. Grabaremos nuestras historias para que otros puedan escucharlas.</p>\n<p><strong>Actividad 1: Grabación del Podcast.</strong><br /></p>\n<ul>\n<li><strong>Tarea</strong>: Usar la grabadora de la tablet o Audacity para grabar vuestro guion. Podéis añadir sonidos de ambiente (fuego, viento).<br /></li>\n<li><strong>Dónde</strong>: En el \"Rincón de Radio\" del aula.<br /></li>\n<li><strong>Entrega</strong>: El archivo de audio (mp3 o enlace de Vocaroo). (EVIDENCIA 1: Foto del niño leyendo con micro/tablet).</li>\n</ul>\n<p><strong>Actividad 2: Auditorio prehistórico.</strong><br /></p>\n<ul>\n<li><strong>Tarea</strong>: Escuchar las grabaciones de otros clanes y anotar un detalle que os haya gustado de cada una.<br /></li>\n<li><strong>Dónde</strong>: En gran grupo en el aula.<br /></li>\n<li><strong>Entrega</strong>: Hoja de coevaluación sencilla.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mostcwmw-d27quvo1h</odePageId>
+  <odeParentPageId>page-mostcwmn-s2uigsx0d</odeParentPageId>
+  <pageName>Sesión 4</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mostcwmw-d27quvo1h</odePageId>
+      <odeBlockId>block-1777980906168-kpuow8t6z</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mostcwmw-d27quvo1h</odePageId>
+          <odeBlockId>block-1777980906168-kpuow8t6z</odeBlockId>
+          <odeIdeviceId>idevice-1777980906165-88ghpdrmk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Sesión 4: Museo Digital (La Infografía I)</strong></p>
+<p><strong>Descripción</strong>: Vamos a crear un museo que no necesita edificios. Usaremos Canva para mostrar las herramientas y el arte de la Prehistoria.</p>
+<p><strong>Actividad 1: Búsqueda de tesoros.</strong><br /></p>
+<ul>
+<li><strong>Tarea</strong>: Buscar imágenes de herramientas (bifaces, propulsores) y pinturas rupestres en bancos de imágenes gratuitos.<br /></li>
+<li><strong>Dónde</strong>: En el aula de informática o con tablets.<br /></li>
+<li><strong>Entrega</strong>: Una carpeta con al menos 3 imágenes seleccionadas.</li>
+</ul>
+<p><strong>Actividad 2: Primeros pasos en Canva.</strong><br /></p>
+<ul>
+<li><strong>Tarea</strong>: Elegir una plantilla de póster y colocar el título y las imágenes que habéis buscado.<br /></li>
+<li><strong>Dónde</strong>: En la web de Canva.<br /></li>
+<li><strong>Entrega</strong>: Guardar el diseño en vuestro perfil.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777980906165-88ghpdrmk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Sesión 4: Museo Digital (La Infografía I)</strong></p>\n<p><strong>Descripción</strong>: Vamos a crear un museo que no necesita edificios. Usaremos Canva para mostrar las herramientas y el arte de la Prehistoria.</p>\n<p><strong>Actividad 1: Búsqueda de tesoros.</strong><br /></p>\n<ul>\n<li><strong>Tarea</strong>: Buscar imágenes de herramientas (bifaces, propulsores) y pinturas rupestres en bancos de imágenes gratuitos.<br /></li>\n<li><strong>Dónde</strong>: En el aula de informática o con tablets.<br /></li>\n<li><strong>Entrega</strong>: Una carpeta con al menos 3 imágenes seleccionadas.</li>\n</ul>\n<p><strong>Actividad 2: Primeros pasos en Canva.</strong><br /></p>\n<ul>\n<li><strong>Tarea</strong>: Elegir una plantilla de póster y colocar el título y las imágenes que habéis buscado.<br /></li>\n<li><strong>Dónde</strong>: En la web de Canva.<br /></li>\n<li><strong>Entrega</strong>: Guardar el diseño en vuestro perfil.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mostcwmz-0swpuirds</odePageId>
+  <odeParentPageId>page-mostcwmn-s2uigsx0d</odeParentPageId>
+  <pageName>Sesión 5</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 5</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 5</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mostcwmz-0swpuirds</odePageId>
+      <odeBlockId>block-1777981037337-3itsbwlju</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mostcwmz-0swpuirds</odePageId>
+          <odeBlockId>block-1777981037337-3itsbwlju</odeBlockId>
+          <odeIdeviceId>idevice-1777981037334-w7ylevwf4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Sesión 5: ¡Interactúa con el Pasado! (La Infografía II)</strong></p>
+<p><strong>Descripción</strong>: Haremos que nuestra infografía "hable". Añadiremos botones para que, al pulsar, aparezca información secreta.</p>
+<p><strong>Actividad 1: Puntos interactivos.</strong><br /></p>
+<ul>
+<li><strong>Tarea</strong>: Añadir elementos interactivos en Canva (enlaces o etiquetas de texto) que expliquen para qué servía cada herramienta de la infografía.<br /></li>
+<li><strong>Dónde</strong>: En el ordenador/tablet.<br /></li>
+<li><strong>Entrega</strong>: El enlace de la infografía publicada. (EVIDENCIA 2: Foto de la mano en el ratón/pantalla señalando el diseño).</li>
+</ul>
+<p><strong>Actividad 2: Críticos de arte.</strong><br /></p>
+<ul>
+<li><strong>Tarea</strong>: Pasear virtualmente por las infografías de los compañeros y dejar un "like" o comentario positivo.<br /></li>
+<li><strong>Dónde</strong>: Plataforma virtual del centro o mural de enlaces.<br /></li>
+<li><strong>Entrega</strong>: Registro de comentarios realizados.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777981037334-w7ylevwf4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Sesión 5: ¡Interactúa con el Pasado! (La Infografía II)</strong></p>\n<p><strong>Descripción</strong>: Haremos que nuestra infografía \"hable\". Añadiremos botones para que, al pulsar, aparezca información secreta.</p>\n<p><strong>Actividad 1: Puntos interactivos.</strong><br /></p>\n<ul>\n<li><strong>Tarea</strong>: Añadir elementos interactivos en Canva (enlaces o etiquetas de texto) que expliquen para qué servía cada herramienta de la infografía.<br /></li>\n<li><strong>Dónde</strong>: En el ordenador/tablet.<br /></li>\n<li><strong>Entrega</strong>: El enlace de la infografía publicada. (EVIDENCIA 2: Foto de la mano en el ratón/pantalla señalando el diseño).</li>\n</ul>\n<p><strong>Actividad 2: Críticos de arte.</strong><br /></p>\n<ul>\n<li><strong>Tarea</strong>: Pasear virtualmente por las infografías de los compañeros y dejar un \"like\" o comentario positivo.<br /></li>\n<li><strong>Dónde</strong>: Plataforma virtual del centro o mural de enlaces.<br /></li>\n<li><strong>Entrega</strong>: Registro de comentarios realizados.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mostcwn0-ycas2xdb1</odePageId>
+  <odeParentPageId>page-mostcwmn-s2uigsx0d</odeParentPageId>
+  <pageName>Sesión 6</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 6</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 6</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mostcwn0-ycas2xdb1</odePageId>
+      <odeBlockId>block-1777981150056-qcfzun0hr</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mostcwn0-ycas2xdb1</odePageId>
+          <odeBlockId>block-1777981150056-qcfzun0hr</odeBlockId>
+          <odeIdeviceId>idevice-1777981150049-lvq1gi9jr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Sesión 6: Escape de la Cueva</strong></p>
+<p><strong>Descripción</strong>: ¡Final del viaje! Debéis demostrar todo lo aprendido para superar los retos y conseguir volver al presente.</p>
+<p><strong>Actividad 1: El reto final</strong><br /></p>
+<ul>
+<li><strong>Tarea</strong>: Entrar en el enlace de Wordwall/Genially y resolver las preguntas sobre la Prehistoria para abrir los candados digitales.<br /></li>
+<li><strong>Dónde</strong>: De forma individual en la tablet.<br /></li>
+<li><strong>Entrega</strong>: Captura de pantalla del mensaje "¡Has escapado con éxito!".</li>
+</ul>
+<p><strong>Actividad 2: Reflexión en el diario.</strong><br /></p>
+<ul>
+<li><strong>Tarea</strong>: Escribir qué ha sido lo más difícil y lo más divertido de ser un viajero del tiempo.<br /></li>
+<li><strong>Dónde</strong>: En vuestro portafolio personal.<br /></li>
+<li><strong>Entrega</strong>: Reflexión final por escrito.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777981150049-lvq1gi9jr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Sesión 6: Escape de la Cueva</strong></p>\n<p><strong>Descripción</strong>: ¡Final del viaje! Debéis demostrar todo lo aprendido para superar los retos y conseguir volver al presente.</p>\n<p><strong>Actividad 1: El reto final</strong><br /></p>\n<ul>\n<li><strong>Tarea</strong>: Entrar en el enlace de Wordwall/Genially y resolver las preguntas sobre la Prehistoria para abrir los candados digitales.<br /></li>\n<li><strong>Dónde</strong>: De forma individual en la tablet.<br /></li>\n<li><strong>Entrega</strong>: Captura de pantalla del mensaje \"¡Has escapado con éxito!\".</li>\n</ul>\n<p><strong>Actividad 2: Reflexión en el diario.</strong><br /></p>\n<ul>\n<li><strong>Tarea</strong>: Escribir qué ha sido lo más difícil y lo más divertido de ser un viajero del tiempo.<br /></li>\n<li><strong>Dónde</strong>: En vuestro portafolio personal.<br /></li>\n<li><strong>Entrega</strong>: Reflexión final por escrito.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mostcwn1-57pt59woo</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Atribución y descarga</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mostcwn1-57pt59woo</odePageId>
+      <odeBlockId>block-1777981350654-8cqiwbum4</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mostcwn1-57pt59woo</odePageId>
+          <odeBlockId>block-1777981350654-8cqiwbum4</odeBlockId>
+          <odeIdeviceId>idevice-1777981350650-d2013rqub</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 49.9274%;"><strong>Tíitulo</strong></td>
+<td style="width: 49.9274%;">Viajeros en el tiempo</td>
+</tr>
+<tr>
+<td style="width: 49.9274%;"><strong>Descripción</strong></td>
+<td style="width: 49.9274%;">El alumnado suele ver la historia como algo lejano y aburrido. Mediante el uso de herramientas digitales y la narrativa, se busca que empaticen con las formas de vida primitivas y comprendan la evolución humana.</td>
+</tr>
+<tr>
+<td style="width: 49.9274%;"><strong>Autoría</strong></td>
+<td style="width: 49.9274%;">Raquel Fernández Villanueva</td>
+</tr>
+<tr>
+<td style="width: 49.9274%;"><strong>Licencia</strong></td>
+<td style="width: 49.9274%;">creative commons: attribution - shaare alike 4.0</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777981350650-d2013rqub","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 49.9274%;\"><strong>Tíitulo</strong></td>\n<td style=\"width: 49.9274%;\">Viajeros en el tiempo</td>\n</tr>\n<tr>\n<td style=\"width: 49.9274%;\"><strong>Descripción</strong></td>\n<td style=\"width: 49.9274%;\">El alumnado suele ver la historia como algo lejano y aburrido. Mediante el uso de herramientas digitales y la narrativa, se busca que empaticen con las formas de vida primitivas y comprendan la evolución humana.</td>\n</tr>\n<tr>\n<td style=\"width: 49.9274%;\"><strong>Autoría</strong></td>\n<td style=\"width: 49.9274%;\">Raquel Fernández Villanueva</td>\n</tr>\n<tr>\n<td style=\"width: 49.9274%;\"><strong>Licencia</strong></td>\n<td style=\"width: 49.9274%;\">creative commons: attribution - shaare alike 4.0</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mostcwn1-57pt59woo</odePageId>
+      <odeBlockId>block-1777981762042-1gcqeoy0q</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mostcwn1-57pt59woo</odePageId>
+          <odeBlockId>block-1777981762042-1gcqeoy0q</odeBlockId>
+          <odeIdeviceId>idevice-1777981762033-3ryjdmywm</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Viajeros del Tiempo. Alumnado</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">El alumnado suele ver la historia como algo lejano y aburrido. Mediante el uso de herramientas digitales y la narrativa , se busca que empaticen con las formas de vida primitivas y comprendan la evolución humana.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Raquel Fernández Villanueva</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
